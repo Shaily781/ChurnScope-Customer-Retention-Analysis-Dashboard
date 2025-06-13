@@ -1,0 +1,25 @@
+Descriptive Analysis,
+,
+Tenure Summary,
+Particular,Months
+Maximum Tenure,24
+Minimum Tenure,1
+Average Tenure,7
+,
+Plan Summary,
+Plan,Number of Customers
+Half Yearly,3277
+Month-to-Month,3806
+Annual,3290
+,
+,
+Payment Method Summary,
+Payment Method,Number of Customers
+Credit Card,3520
+Debit Card,3459
+UPI,3394
+,
+Customer Churn Summary,
+Total Customers,10373
+No. of Customers Churned,4123
+Churn Rate,39.75%
