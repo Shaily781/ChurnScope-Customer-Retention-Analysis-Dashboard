@@ -1,5 +1,5 @@
 # ChurnScope-Customer-Retention-Analysis-Dashboard
-A data-driven Tableau dashboard project to analyze customer churn patterns, segment behavior, and improve user retention through smart insights.
+A data-driven Excel dashboard project to analyze customer churn patterns, segment behavior, and improve user retention through smart insights.
 
 ## 🧠 Project Overview
 
@@ -48,7 +48,7 @@ Each chart helps pinpoint where churn is happening most, making it easier to tak
 
 ## 🛠 Tools Used
 
-- **Tableau Public**
+- **Excel**
 - **Customer Segmentation**
 - **Churn Rate Analysis**
 - **Data Storytelling**
