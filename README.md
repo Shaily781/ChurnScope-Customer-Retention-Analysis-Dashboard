@@ -59,10 +59,10 @@ Each chart helps pinpoint where churn is happening most, making it easier to tak
 
 ##  Business Value
 
-- 🎯 Target high-risk customer groups for retention campaigns
-- 📩 Personalize outreach for at-risk user segments
-- 📉 Reduce churn and improve customer lifetime value
-- 🤝 Support data-backed business decisions
+-  Target high-risk customer groups for retention campaigns
+-  Personalize outreach for at-risk user segments
+-  Reduce churn and improve customer lifetime value
+-  Support data-backed business decisions
 
 ---
 
