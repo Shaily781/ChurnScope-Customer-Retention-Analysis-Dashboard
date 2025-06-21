@@ -1,5 +1,7 @@
 # ChurnScope-Customer-Retention-Analysis-Dashboard
 A data-driven Excel dashboard project to analyze customer churn patterns, segment behavior, and improve user retention through smart insights.
+**Presentation Link** : https://www.canva.com/design/DAGq57F5izo/cvQ2N4he_XfvU1yxQJOP9g/view?utm_content=DAGq57F5izo&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=h8c13129a96
+
 
 ## 🧠 Project Overview
 
