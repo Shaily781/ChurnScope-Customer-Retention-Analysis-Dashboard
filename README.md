@@ -3,7 +3,7 @@ A data-driven Excel dashboard project to analyze customer churn patterns, segmen
 **Presentation Link** : https://www.canva.com/design/DAGq57F5izo/cvQ2N4he_XfvU1yxQJOP9g/view?utm_content=DAGq57F5izo&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=h8c13129a96
 
 
-## 🧠 Project Overview
+## Project Overview
 
 Customer churn is one of the biggest challenges for subscription-based businesses. This dashboard helps identify who’s leaving—and more importantly, why. By analyzing tenure, plan types, customer types, and engagement stages, the project identifies churn drivers and provides a foundation for effective retention strategies.
 
@@ -11,26 +11,26 @@ Built using Tableau, the dashboard turns raw data into actionable insights that 
 
 ---
 
-## 🔍 Key Insights
+##  Key Insights
 
 - **Churn Rate (Last Month):** **39.75%**  
 - **Total Customers (Last Month):** **10,373**  
 - **Customers Churned:** **4,123**
 
 ### Segment-Wise Observations:
-- 📊 **Tenure:** Newer users (1–3 months) show significantly higher churn rates (60–70%)  
+-  **Tenure:** Newer users (1–3 months) show significantly higher churn rates (60–70%)  
 - 🗓 **Plan Type:**
   - Month-to-Month plan has the highest churn (**54.44%**)
   - Annual plan has the lowest churn (**25.29%**)
-- 👥 **Customer Type:**
+-  **Customer Type:**
   - Influencers have the highest churn (**77.92%**)
   - Startups are the most loyal (**5.61%**)
-- 🚀 **Stage:**
+-  **Stage:**
   - Emerging businesses (Stage 1) churn more (**48.27%**) than established ones (Stage 0)
 
 ---
 
-## 📊 Visualizations
+##  Visualizations
 
 - **Tenure-wise Active/Inactive Line Chart**
 - **Tenure-wise Churn Rate Bar Chart**
@@ -42,13 +42,13 @@ Each chart helps pinpoint where churn is happening most, making it easier to tak
 
 ---
 
-## 🖼 Dashboard Preview
+##  Dashboard Preview
 
 <img src="https://i.postimg.cc/XJFPwhxj/Screenshot-2025-06-12-112829.png" alt="Customer Churn Dashboard" width="850"/>
 
 ---
 
-## 🛠 Tools Used
+##  Tools Used
 
 - **Excel**
 - **Customer Segmentation**
@@ -57,7 +57,7 @@ Each chart helps pinpoint where churn is happening most, making it easier to tak
 
 ---
 
-## 💼 Business Value
+##  Business Value
 
 - 🎯 Target high-risk customer groups for retention campaigns
 - 📩 Personalize outreach for at-risk user segments
